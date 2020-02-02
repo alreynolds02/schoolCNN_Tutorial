@@ -5,15 +5,15 @@ This repository has the code to replicate part of the work written about here  t
 
 ## Instructions
 
-1. Clone this repository to your computer
-2. Create a new folder called 'data' and create the file structure shown below:
+1. Fork this repository and clone it to your computer.
+2. Create new folders to match the file structure shown below:
 ```
     |-- 1_GoogleStaticDownload.py
     |-- 2_PassFailSplit.py
     |-- 3_TrainValSplit.py 
     |-- 4_GoogleStaticCNN.py
     |-- data
-        \-- imagery
+        |-- imagery
         |-- pass
         |-- fail
         |-- train
@@ -24,4 +24,4 @@ This repository has the code to replicate part of the work written about here  t
             |-- fail
 ```
 3. Download the data in this folder: https://drive.google.com/drive/u/0/folders/19ubRi2AKjjX5ImglaX2TPTi3jfnXWJNH to the imagery folder.
-4. Begining with file 'PassFaillSPit.ipynb', make your way through the tutorial following the numbered files!
+4. Beginning with file 'PassFaillSPit.ipynb', make your way through the tutorial following the numbered files!
