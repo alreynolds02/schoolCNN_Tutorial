@@ -7,4 +7,8 @@ This repository has the code to replicate part of the work written about here  t
 
 1. Clone this repository to your computer
 2. Create a new folder called 'data' and create the file structure shown below:
-|-- 1_GoogleStaticDownload.py
+```
+    |-- 1_GoogleStaticDownload.py
+
+
+```
