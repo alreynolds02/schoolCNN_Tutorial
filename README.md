@@ -14,6 +14,7 @@ This repository has the code to replicate part of the work written about here  t
     |-- 2_PassFailSplit.py
     |-- 3_TrainValSplit.py 
     |-- 4_GoogleStaticCNN.py
+    ...
     |-- models
     |-- epochs
     |-- data
@@ -29,5 +30,5 @@ This repository has the code to replicate part of the work written about here  t
             |-- pass
 ```
 3. Download the data in this folder: https://drive.google.com/drive/u/0/folders/19ubRi2AKjjX5ImglaX2TPTi3jfnXWJNH to the imagery folder.
-4. Beginning with file 'PassFaillSPit.ipynb', make your way through the tutorial following the numbered files!
+4. Beginning with file '2_PassFailSplit.ipynb', make your way through the tutorial following the numbered files!
 
