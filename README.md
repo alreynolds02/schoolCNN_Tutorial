@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GoogleCNN_Tutorial
 Code and tutorial for a CNN using Google Static API imagery to predict student success in Philippine public schools
 
@@ -23,3 +24,7 @@ This repository has the code to replicate part of the work written about here  t
             |-- fail
 
 ```
+=======
+# SchoolCNN_Tutorial
+ajfao
+>>>>>>> b2bc76f00230d512b0335f750c29c98cb113b59b
