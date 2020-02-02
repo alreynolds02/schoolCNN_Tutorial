@@ -9,6 +9,17 @@ This repository has the code to replicate part of the work written about here  t
 2. Create a new folder called 'data' and create the file structure shown below:
 ```
     |-- 1_GoogleStaticDownload.py
-
+    |-- 2_PassFailSplit.py
+    |-- 3_TrainValSplit.py 
+    |-- 4_GoogleStaticCNN.py
+    |-- data
+        |-- pass
+        |-- fail
+        |-- train
+            |-- fail
+            |-- pass
+        |-- val
+            |-- fail
+            |-- fail
 
 ```
