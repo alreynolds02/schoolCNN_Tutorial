@@ -1,2 +1,7 @@
-data/
+data/pass/
+data/fail/
+data/train/
+data/val/
+data/jpg/
+
 
