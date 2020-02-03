@@ -29,6 +29,5 @@ This repository has the code to replicate part of the work written about here  t
             |-- fail
             |-- pass
 ```
-3. Download the data in this folder: https://drive.google.com/drive/u/0/folders/19ubRi2AKjjX5ImglaX2TPTi3jfnXWJNH to the imagery folder.
-4. Beginning with file '2_PassFailSplit.ipynb', make your way through the tutorial following the numbered files!
+3. Beginning with file '2_PassFailSplit.ipynb', make your way through the tutorial following the numbered files!
 
